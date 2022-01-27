@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Boley",
+    "location": "Boca Raton FL",
+    "type": "Healthy American",
+    "price": "$$"
+  },
+  {
+    "name": "Shinju",
+    "location": "Miami FL",
+    "type": "Chinese Buffet",
+    "price": "$$"
+  },
+  {
+    "name": "Burger King",
+    "location": "Miami FL",
+    "type": "American Fast Food",
+    "price": "$"
+  },
+  {
+    "name": "Nusr et",
+    "location": "Miami FL",
+    "type": "Turkish",
+    "price": "$$$$"
+  }
+]
